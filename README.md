@@ -35,7 +35,7 @@ This project analyzes 50,000+ hospital records using Power BI, SQL, PostgreSQL, 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+![Dashboard](dashboard_screenshot.png)
 
 ## Author
 
